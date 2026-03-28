@@ -31,10 +31,10 @@ export interface Sponsor {
 export const athletes: Athlete[] = [
   {
     id: "1",
-    name: "Priya Sharma",
+    name: "Akshita Deshwal",
     sport: "Boxing",
     state: "Haryana",
-    city: "Bhiwani",
+    city: "Panipat",
     age: 19,
     avatar: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=200&h=200&fit=crop&crop=face",
     athleteScore: 92,
@@ -61,9 +61,9 @@ export const athletes: Athlete[] = [
   },
   {
     id: "2",
-    name: "Arjun Meena",
+    name: "Noman Khan",
     sport: "Archery",
-    state: "Jharkhand",
+    state: "Uttar Pradesh",
     city: "Ranchi",
     age: 17,
     avatar: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=200&h=200&fit=crop&crop=face",
@@ -91,7 +91,7 @@ export const athletes: Athlete[] = [
   },
   {
     id: "3",
-    name: "Kavitha Devi",
+    name: "Harsha",
     sport: "Weightlifting",
     state: "Manipur",
     city: "Imphal",
@@ -121,10 +121,10 @@ export const athletes: Athlete[] = [
   },
   {
     id: "4",
-    name: "Ravi Kumar",
+    name: "Anas Khan",
     sport: "Wrestling",
     state: "Uttar Pradesh",
-    city: "Varanasi",
+    city: "Lucknow",
     age: 22,
     avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop&crop=face",
     athleteScore: 78,
